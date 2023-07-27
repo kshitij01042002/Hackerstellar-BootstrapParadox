@@ -19,3 +19,18 @@ promoting the use of renewable resources.
 The application may also leverage natural language processing (NLP) techniques to
 provide users with personalized financial advice and support. The app may also
 incentivize the sustainable behavior of users
+
+Home Dashboard:-
+![9a3c3e99-2c58-476e-9bbd-1483d83da8de](https://github.com/kshitij01042002/Hackerstellar-BootstrapParadox/assets/91470808/b8e0ca58-2b2d-45dc-8d80-92a2e5af9caa)
+
+Login Page:-
+![c8553063-1af9-4910-a8ed-de7a73497832](https://github.com/kshitij01042002/Hackerstellar-BootstrapParadox/assets/91470808/07ead467-06c6-4f3a-9ce9-4d1a553a7fbf)
+
+Make your Budget:-
+![e164443b-503f-4fd3-9758-e96d9bb5b905](https://github.com/kshitij01042002/Hackerstellar-BootstrapParadox/assets/91470808/2f1d7bbb-9b44-4d6f-ae39-785d2c898aef)
+
+Generate Your Financial Plan with the help of AI assistant:-
+![4952382a-c288-4060-8406-b829d8ee1abb](https://github.com/kshitij01042002/Hackerstellar-BootstrapParadox/assets/91470808/18b77006-8d08-4c50-bc8c-aadd35815e9b)
+
+Record your transaction with the help of OCR and get your rewards:-
+![f46a2982-740e-4cec-9b89-036ce05217b6](https://github.com/kshitij01042002/Hackerstellar-BootstrapParadox/assets/91470808/d81efaab-7a8c-42ce-b929-5fed8589d5be)
